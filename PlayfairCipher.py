@@ -71,3 +71,7 @@ print("Ciphertext:", ciphertext)
   
 decrypted_text = playfair_cipher(ciphertext, key, 'decrypt')  
 print("Decrypted text:", decrypted_text) 
+
+# Solution
+ripnldcnnppqdmkkqpuudmnppqfrnm
+shesellsseashellsattheseashore
