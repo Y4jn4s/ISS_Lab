@@ -7,7 +7,7 @@ def playfair_cipher(plaintext, key, mode):
     # Construct the key square  
     key_square = ''  
     for letter in key + alphabet:  
-        if letter not in key_square:  
+        if letter not in key_square: 
             key_square += letter  
       
     # Split the plaintext into digraphs, padding with 'x' if necessary  
